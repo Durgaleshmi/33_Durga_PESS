@@ -4,5 +4,5 @@
  <a href="Update.php">Update</a>
  <a href="#">Report</a>
  <a href="#">History</a>
- </nav>
+</nav>
  
