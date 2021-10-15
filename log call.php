@@ -67,7 +67,7 @@ value="Reset">
 </td>
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="submit"name="btnProcessCall" id="btnProcessCall" value="Process Call..."</td>
 </tr>
-</table>	
+	</table>	
 	
 	
 	
